@@ -1,9 +1,12 @@
 #include <stdio.h>
 
 int main() {
-    printf("Integrantes do grupo:\n");
-    printf("Gabriel Savoy\n");
-    printf("Victor Vidigal");
+
+    printf("===== GRUPO =====\n");
+    printf("Integrantes:\n");
+
+    printf("- Gabriel Savoy\n");
+    printf("- Victor Vidigal\n");
 
     return 0;
 }
