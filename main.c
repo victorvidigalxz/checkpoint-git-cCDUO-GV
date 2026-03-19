@@ -2,11 +2,14 @@
 
 int main() {
 
-    printf("===== GRUPO =====\n");
-    printf("Integrantes:\n");
+    printf("=================================\n");
+    printf("        INTEGRANTES DO GRUPO     \n");
+    printf("=================================\n\n");
 
-    printf("- Gabriel Savoy\n");
-    printf("- Victor Vidigal\n");
+    printf("1. Gabriel Savoy\n");
+    printf("2. Victor Vidigal\n");
+
+    printf("\n=================================\n");
 
     return 0;
 }
